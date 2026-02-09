@@ -1,5 +1,5 @@
 # PAUG_2025_2026
-### Repository for PAUG (Praktyczne aspekty uczenia głębokiego - Practical aspects of deep learning) course at AGH University
+### Repository for PAUG (Praktyczne Aspekty Uczenia Głębokiego - Practical Aspects of Deep Learning) course at AGH University
 
 Repozytorium zawiera rozwiązania zadań z kolejnych laboratoriów (jupyter notebooki **.ipynb**) wraz z poleceniami (pliki **.pdf**) - katalogi **lab*i***, `i = 1, 2,..., 6`.
 Do laboratorium nr 2 jest dołączony także katalog *dataset_cat_dogs* odpowiadający używanemu datasetowi, zawierający odpowiednio podzielone na podkatalogi pliki ze zdjęciami.
